@@ -1,9 +1,10 @@
 ---
-layout: post
 title: "Hello World"
-date: 2022.05.30
-categories: beginer
+date: 2022-05-30 12:00:00
+categories: [beginner]
+tags: [first,deployment,test]
 ---
 
 # Hello World
-Test if post weel show
+
+Hello this is my new site 
