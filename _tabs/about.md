@@ -3,12 +3,12 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-#### Neno Horvat 
-* NW Croatia
-* bacc. ing. comp.
+
+#### Neno Horvat
+* bacc. ing. cop.
 * CCNA
-* Network Administrator
+* Working in ISP as net Admin
 
-Hello there, I am Neno, and you already know thet, but you can call me Neo. I currently work in local ISP(internet servcice provider) in north wes part of Croatia as Main Network Administrator. This website i start because i want to try new things in IT, and CI and using github as web server is nice to test. Mikrotik is currently my weak point, because i don't know as manny things as i need to know to start use them in evry day life, one time one smart guy has say learn all you can found about one topic then teach sombody eals about it", becose of then i also start this website. I must worn you currently have problems with may dyslexia, and dysgraphia, so if you found som mispelling you can report it on my github page under ISSUES, pleas.
-
-On this website i well not try to write about tech topics and I will not try to teach you about IT topics. This week bee website on witch you can read and learn something about networking, also you as reader an go to my github repo under Issues and you may request IT topics on which i will write on this website.
+Hello there, My name is Neno and you all know it. I work as a network administrator for the Croatian ISP "O Telekomunikacije", located in the north-west of my country. My education in systems and network engineering was completed at the local college "The Polytechnic of Meimurje in Akovec." I now have more than half of the yare in net-admin feald. I am always looking for more education. One time, a smart man said, "If you want to learn something, learn about as much as you can and then teach somebody else." This is my way to finish the mission, to learn more and teach somebody else about network and system topics. 
+I currently have only a CCNA and my goal is to get at least a CCNP, some Mikrotik, and some other certifications to know the material well enough to be as best as possible in my job. 
+I currently have two nice paperworks also, on the networking theme that I wrout last day's of education, my mentor and I wrote a paper on using GNS3 for network simulations and using the program in school. We have a problem where we cannot install prorpr software, so we use a RDM to connect to a virtual machine where we have a GSN3 client and a virtual environment with a GNS3 server. Also, I have my final work of my bachelor's degree on the topic of using a virtual router in a home or small business, how and why. Also, in my final work I compare several popular virtual router software in several ways to give a reader an idea of which VRS is best for their use. From beginners to hard-core pros,

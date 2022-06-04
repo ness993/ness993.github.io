@@ -48,7 +48,7 @@ social:
     - https://github.com/ness993       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/neno-horvat-4b924561
 
 google_site_verification:               # fill in to your verification string
 
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media-exp1.licdn.com/dms/image/C4D03AQGexWth5MrSNg/profile-displayphoto-shrink_200_200/0/1570106292721?e=1659571200&v=beta&t=tPmIARcIZF3OH0s1FsYHR7nbkpyl6q6Pq5UW7mQHI60
 
 # boolean type, the global switch for ToC in posts.
 toc: true
